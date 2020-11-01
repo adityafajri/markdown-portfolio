@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Sleep
+* Playing Games
+  * Yugioh Duel Links
+  * Yugioh Link Evolution
+  * Casual Game
+* Eat
+* Coding
